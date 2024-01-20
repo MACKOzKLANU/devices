@@ -1,5 +1,7 @@
 # Device Control
 
+## This C++ code defines a simple system for managing electronic devices, including a generic Device class and two specialized classes: Phone and Computer. The system allows you to create instances of these devices, toggle their power states, and perform specific actions depending on their type.
+
 ## Code Structure
 
 The code consists of three classes:
